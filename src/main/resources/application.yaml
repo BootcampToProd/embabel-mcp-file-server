@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: embabel-mcp-file-server
+
+embabel:
+  models:
+    defaultLlm: x-ai/grok-4.1-fast:free
