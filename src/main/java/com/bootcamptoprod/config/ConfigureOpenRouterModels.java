@@ -1,6 +1,6 @@
 package com.bootcamptoprod.config;
 
-import com.embabel.agent.api.models.OpenAiCompatibleModelFactory;
+import com.embabel.agent.openai.OpenAiCompatibleModelFactory;
 import com.embabel.common.ai.model.Llm;
 import com.embabel.common.ai.model.PerTokenPricingModel;
 import io.micrometer.observation.ObservationRegistry;
@@ -15,7 +15,7 @@ import java.time.LocalDate;
 public class ConfigureOpenRouterModels extends OpenAiCompatibleModelFactory {
 
     public ConfigureOpenRouterModels(@NotNull ObservationRegistry observationRegistry,
-                                     @Value("${OPENROUTER_API_KEY}") String apiKey) {
+                                     @Value("${OPENAI_API_KEY}") String apiKey) {
         super(
                 "https://openrouter.ai",
                 apiKey,

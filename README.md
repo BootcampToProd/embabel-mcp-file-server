@@ -43,7 +43,7 @@ cd embabel-mcp-file-server
 ### 2️⃣ Configure API Key
 Provide your OpenRouter API key as an environment variable.
 ```bash
-OPENROUTER_API_KEY={YOUR_OPENROUTER_API_KEY}
+OPENAI_API_KEY={YOUR_OPENROUTER_API_KEY}
 ```
 
 ### 3️⃣ Build the Project
