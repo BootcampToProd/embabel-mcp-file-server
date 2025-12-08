@@ -6,11 +6,11 @@ This repository demonstrates how to build a **Model Context Protocol (MCP) Serve
 👉 [**Embabel Framework: How to Build MCP Server**](https://bootcamptoprod.com/embabel-build-mcp-server/)
 
 🎥 **Video Tutorial**: Prefer hands-on learning? Watch our step-by-step implementation guide.<br>
-👉 YouTube Tutorial - [**Embabel Framework: How to Build MCP Server**](https://youtu.be/gtlGojiGw8Q)
+👉 YouTube Tutorial - [**Build Your Own MCP Server with Embabel Framework: Connect Claude to Local Files!**](https://youtu.be/gtlGojiGw8Q)
 
 <p align="center">
   <a href="https://youtu.be/gtlGojiGw8Q">
-    <img src="https://img.youtube.com/vi/gtlGojiGw8Q/0.jpg" alt="Embabel Framework: How to Build MCP Server" />
+    <img src="https://img.youtube.com/vi/gtlGojiGw8Q/0.jpg" alt="Build Your Own MCP Server with Embabel Framework: Connect Claude to Local Files!" />
   </a>
 </p>
 
